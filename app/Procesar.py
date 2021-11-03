@@ -937,7 +937,7 @@ while 1:
             if	a == 1 :	print "Se enviaron los usuarios y se guardo correctamente"
             elif	a == 2 :	print "No hay nada que enviar"
             else:	                print "NO fue posiple enviar los usuarios en otra oportunidad con internet" # hacer algo mas o espera nueva oportunidad
-
+        """
         if R_Actualizacion==1:
             Actualizar_Usuarios(1)
             if R_Actualizacion==0:
@@ -946,6 +946,7 @@ while 1:
             else:
                 if PP_Mensajes:
                     print 'no se apodifo se espera otra opertunidad'
+        """
     #---------------------------------------------------------
     # Proceso 6: Actualizacion de firmware
     #---------------------------------------------------------
